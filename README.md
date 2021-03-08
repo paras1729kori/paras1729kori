@@ -1,5 +1,4 @@
-### Hi there 👋, 
-### I'm Paras
+### Hi there 👋, I'm Paras
 I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss
