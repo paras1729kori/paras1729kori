@@ -1,5 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 ### Hi there 👋, I'm Paras
+
 I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss
