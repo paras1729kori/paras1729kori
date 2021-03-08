@@ -12,4 +12,4 @@ I am a Second Year Computer Science Student in Mumbai, India. My hobbies include
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori)  
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori)  -->
