@@ -4,8 +4,6 @@ I'm Paras from India,a Second Year Computer Science student. I am a Full Stack D
 
 I have experience in C, Java, Python and many other such languages. I also enjoy wireframing, and have experience in using Adode XD.
 
-![paras1729kori](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
-
 <!--
 **paras1729kori/paras1729kori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
