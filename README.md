@@ -1,20 +1,17 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+### Hi there 👋, I'm Paras
+I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
-I'm Paras from India,a Second Year Computer Science student. I am a Full Stack Developer in Laravel, Django. I love learning new languages and frameworks, improve my ethics, ways of coding to enhance my performance.
+**Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss
+**Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
 
-I have experience in C, Java, Python and many other such languages. I also enjoy wireframing, and have experience in using Adode XD.
+- 🌱 I’m currently learning gatsby, serverless. 
+- ⚡ Fun fact: I can play an ukulele 
 
-<!--
-**paras1729kori/paras1729kori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/paras1729kori//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori)  
+
