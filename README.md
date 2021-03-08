@@ -8,7 +8,7 @@ I am a Second Year Computer Science Student in Mumbai, India. My hobbies include
 - ⚡ Fun fact: I can play an ukulele 
 
 
-[<img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/paras1729kori//)  [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)  
+[<img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)  [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true)  
 
