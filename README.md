@@ -1,5 +1,8 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
+I'm Paras from India, and a Second Year Computer Science student. I am a Full Stack Developer in Laravel, Django. I love learning new languages and frameworks, improve my ethics, ways of coding to enhance my performance. 
+I have experience in C, Java, Python and many other such languages. I also enjoy wireframing, and have experience in using Adode XD.
+
 <!--
 **paras1729kori/paras1729kori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
