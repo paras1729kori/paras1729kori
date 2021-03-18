@@ -2,12 +2,12 @@
 I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 ### Skillzzz
-**Full Stack Web Developer | Software Developer | Budding Computer Scientist** 
-**Languages:** C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL, jQuery 
-**Frameworks:** Laravel, Django 
-**Libraries:** React.js 
-**Relevant Skills:** Bootstrap, LaTex, AdobeXD, Git, Firebase 
-**Technology:** Android Dev using Android Studio 
+**Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
+**Languages:** C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL, jQuery<br /> 
+**Frameworks:** Laravel, Django<br /> 
+**Libraries:** React.js<br /> 
+**Relevant Skills:** Bootstrap, LaTex, AdobeXD, Git, Firebase<br /> 
+**Technology:** Android Dev using Android Studio<br /> 
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
