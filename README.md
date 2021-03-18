@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Paras
 I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
-### Skillzzz
+### Skillzzz 🥉
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
 **Languages:** C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL, jQuery<br /> 
 **Frameworks:** Laravel, Django<br /> 
