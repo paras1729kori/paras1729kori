@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Paras
-I am a Second Year Computer Science Student in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
+I am a Second Year Computer Science Student based in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 ### Skillzzz 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
