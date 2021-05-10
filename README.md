@@ -1,4 +1,4 @@
-### Hi there<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="15">, I'm Paras
+### Hi there<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="20">, I'm Paras
 I am a Second Year Computer Science Student based in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 ### Skillzzz 🥇:
