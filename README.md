@@ -19,7 +19,7 @@ I am a Second Year Computer Science Student based in Mumbai, India. My hobbies i
 [<img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)  
 <!-- [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)   -->
 
-### GitHub Statistics
+### Statistics
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paras1729kori&layout=compact&theme=tokyonight)
 
