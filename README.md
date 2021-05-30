@@ -22,5 +22,8 @@ I am a Second Year Computer Science Student based in Mumbai, India. My hobbies i
 ### GitHub Statistics
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paras1729kori&layout=compact&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true&layout=compact&theme=tokyonight)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori&theme=tokyonight)
+
