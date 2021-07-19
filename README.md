@@ -12,7 +12,7 @@ I am a Third Year Computer Science Student based in Mumbai, India. My hobbies in
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
 
-- 🌱 I’m currently learning gatsby, serverless. 
+- 🌱 I’m currently learning next.js, serverless. 
 - ⚡ Fun fact: I can play an ukulele 
 
 
