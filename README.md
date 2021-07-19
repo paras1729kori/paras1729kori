@@ -3,7 +3,7 @@ I am a Third Year Computer Science Student based in Mumbai, India. My hobbies in
 
 ### Skillzzz 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
-**Languages:** C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL, jQuery<br /> 
+**Languages:** C, C++, Java, Python, HTML5, CSS, JavaScript (TypeScript), MySQL, jQuery<br /> 
 **Frameworks:** Laravel, Django<br /> 
 **Libraries:** React.js, React-Native<br /> 
 **Relevant Skills:** Bootstrap, LaTex, AdobeXD, Git, Firebase<br /> 
