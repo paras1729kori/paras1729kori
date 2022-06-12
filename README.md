@@ -1,5 +1,5 @@
 ### Hi there<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="21">, I'm Paras
-I am a Third Year Computer Science Student based in Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
+I am a Third Year Computer Science Student from Mumbai, India. My hobbies include reading, writing, photography, coding, producing short films.
 
 ### Skillzzz 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
@@ -12,7 +12,7 @@ I am a Third Year Computer Science Student based in Mumbai, India. My hobbies in
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
 
-- 🌱 I’m currently learning next.js, serverless. 
+- 🌱 You'll always find me sharpening my skills. 
 - ⚡ Fun fact: I can play an ukulele 
 
 
