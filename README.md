@@ -17,7 +17,7 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 - 💡 Currently obsessed with blockchain.
 
 
-[<img src='https://img.icons8.com/plasticine/2x/gmail.png' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)  
+[<img src='https://img.icons8.com/plasticine/2x/gmail.png' alt='github' height='40'>](paras1799kori@gmail.com)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)  
 <!-- [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)   -->
 
 ### Statistics
