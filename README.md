@@ -13,7 +13,8 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
 
 - 🌱 You'll always find me sharpening my skills. 
-- ⚡ Fun fact: I can play an ukulele 
+- ⚡ Fun fact: I can play an ukulele.
+- 💡 Currently obsessed with blockchain.
 
 
 [<img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='40'>](https://github.com/paras1729kori)  [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)  
