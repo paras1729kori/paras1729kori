@@ -14,7 +14,8 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 
 - 🌱 You'll always find me sharpening my skills. 
 - ⚡ Fun fact: I can play an ukulele.
-- 💡 Currently obsessed with blockchain.
+- 💡 Currently I am obsessed with blockchain.
+- 👨🏻‍💻 Learning Vue.js and Spring boot.
 
 
 [<img src='https://img.icons8.com/plasticine/2x/gmail.png' alt='gmail' height='40'>](mailto:paras1799kori@gmail.com)
