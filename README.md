@@ -3,11 +3,11 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 
 ### Skillzzz 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
-**Programming Languages:** Python, JavaScript, C++<br /> 
+**Programming Languages:** Python, JavaScript<br /> 
 **Web Technologies:** Node.js, React, React Native, Vue<br /> 
 **Frameworks:** Laravel, Next.js, Nuxt.js, Bootstrap, Tailwind<br /> 
-**DBMS:** MySQL, MongoDB<br /> 
-**Other skills:** Material UI, AdobeXD, Figma, Git, Firebase<br /> 
+**DBMS:** MySQL, MongoDB, Postgresql<br /> 
+**Other skills:** Material UI, AdobeXD, Figma, Git, Firebase, Supabase<br /> 
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
