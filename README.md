@@ -4,7 +4,7 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 ### Skillzzz 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
 **Programming Languages:** Python, JavaScript<br /> 
-**Web Technologies:** Node.js, React, React Native, Vue<br /> 
+**Web Technologies:** Node.js, React, Vue<br /> 
 **Frameworks:** Laravel, Next.js, Nuxt.js, Bootstrap, Tailwind<br /> 
 **DBMS:** MySQL, MongoDB, Postgresql<br /> 
 **Other skills:** Material UI, AdobeXD, Figma, Git, Firebase, Supabase<br /> 
