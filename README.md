@@ -33,4 +33,4 @@ I am a Computer Science Student from Mumbai, India. My hobbies include reading, 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true&layout=compact&theme=tokyonight)  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true&layout=compact&theme=tokyonight)   -->
