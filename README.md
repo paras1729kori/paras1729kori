@@ -20,8 +20,8 @@ I am a Fourth Year Computer Science Student from Mumbai, India. My hobbies inclu
 
 [<img src='https://img.icons8.com/plasticine/2x/gmail.png' alt='gmail' height='40'>](mailto:paras1799kori@gmail.com)
 [<img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paras1729kori/)
-<!-- [<img src="https://img.icons8.com/clouds/100/000000/code.png" alt='leetcode' height='40'>](https://leetcode.com/paras1kori/) -->
 [<img width="40" height="40" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>](https://twitter.com/paras1kori)
+<!-- [<img src="https://img.icons8.com/clouds/100/000000/code.png" alt='leetcode' height='40'>](https://leetcode.com/paras1kori/) -->
 <!-- [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)   -->
 
 ### Statistics
