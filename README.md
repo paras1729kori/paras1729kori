@@ -29,7 +29,7 @@ I am a Computer Science Student from Mumbai, India. My hobbies include reading, 
 
 ### Statistics
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paras1729kori&layout=compact&theme=tokyonight)
+<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paras1729kori&layout=compact&theme=tokyonight) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori&theme=tokyonight)
 
