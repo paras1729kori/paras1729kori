@@ -11,8 +11,8 @@ I am a Computer Science Student from Mumbai, India. My hobbies include reading, 
 **Other skills:** Figma, Git <br />
 
 
-**Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
-**Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* -- Tom Cruise in The Last Samurai
+**Favorite quote:** *Pauca sed matura* **(Few but ripe)** - Carl Gauss  
+**Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* - Tom Cruise in The Last Samurai
 
 - 🌱 You'll always find me sharpening my skills. 
 - ⚡ Fun fact: I can play an ukulele.
