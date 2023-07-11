@@ -3,13 +3,12 @@ I am a Computer Science Student from Mumbai, India. My hobbies include reading, 
 
 ### Skills 🥇:
 **Full Stack Web Developer | Software Developer | Budding Computer Scientist**<br />
-**Programming languages:** Python, JavaScript<br /> 
-**Stack:** MERN, MEVN, T3 (with TypeScript)<br /> 
-**CSS Library:** Bootstrap, Tailwind, Material UI<br /> 
-**Frameworks:** Laravel, Next.js, Nuxt.js <br /> 
-**DB:** MySQL, PostgreSQL, MongoDB, Prisma (ORM)<br /> 
-**Subjects:** OS, DBMS, Networking, OOPS, Data Structures and Algorithms<br /> 
-**Other skills:** Figma, Git, Firebase<br /> 
+**Programming languages:** Python (Basics), JavaScript <br />
+**Libraries:** React.js, Vue.js, Redux Toolkit (with TypeScript) <br />
+**CSS Library:** Bootstrap, Tailwind CSS  <br />
+**Frameworks:** Next.js  <br />
+**DB:** MySQL, Prisma (ORM) <br />
+**Other skills:** Figma, Git <br />
 
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** -- Carl Gauss  
