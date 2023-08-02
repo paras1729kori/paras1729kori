@@ -25,10 +25,10 @@ Diligent full stack engineer with relevant experience. Eager to join a tech comp
 <!-- [<img src="https://img.icons8.com/clouds/100/000000/code.png" alt='leetcode' height='40'>](https://leetcode.com/paras1kori/) -->
 <!-- [<img src='https://img.icons8.com/clouds/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/paras1kori/)   -->
 
-### Statistics
+<!-- ### Statistics -->
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paras1729kori&layout=compact&theme=tokyonight) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori&theme=tokyonight)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paras1729kori&theme=tokyonight) -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paras1729kori&show_icons=true&layout=compact&theme=tokyonight)   -->
