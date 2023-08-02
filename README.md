@@ -1,7 +1,7 @@
 ### Hi there<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="21">, I'm Paras
 A diligent full stack engineer with relevant experience. Eager to join a tech company to build out-of-the-box web applications. Skilled in building innovative, fun web applications with industry-ready standards.
 
-### Skills 🥇:
+<!-- ### Skills 🥇: -->
 **Full Stack Web Developer | Aspiring Computer Scientist**<br />
 **Programming languages:** JavaScript, TypeScript, HTML, CSS, Sass, Python (Basics), SQL <br />
 **Libraries:** React, Next.js, Vue.js (Basics), Redux Toolkit, Webpack <br />
