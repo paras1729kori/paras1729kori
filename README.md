@@ -4,7 +4,7 @@ A diligent full stack engineer with relevant experience. Eager to join a tech co
 <!-- ### Skills 🥇: -->
 **Full Stack Web Developer | Aspiring Computer Scientist**<br />
 **Programming languages:** JavaScript, TypeScript, HTML, CSS, Sass, Python (Basics), SQL <br />
-**Libraries:** React, Next.js, Vue.js (Basics), Redux Toolkit, Webpack <br />
+**Libraries:** Next.js, React Native, Redux, Redux Toolkit, Webpack <br />
 **CSS Library:** Tailwind CSS, Bootstrap  <br />
 **DB:** MySQL, Mongo DB, Prisma (ORM) <br />
 **Tools & Platforms:** Git, GitHub, Vercel, Figma, Google Cloud Platform (OAuth 2.0) <br />
