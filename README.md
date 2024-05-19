@@ -1,13 +1,14 @@
 ### Hi there<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="21">, I'm Paras
-A diligent full stack engineer with relevant experience. Eager to join a tech company to build out-of-the-box web applications. Skilled in building innovative, fun web applications with industry-ready standards.
+Skilled in building innovative, fun web applications with industry-ready standards.
 
 <!-- ### Skills 🥇: -->
 **Full Stack Web Developer | Aspiring Computer Scientist**<br />
-**Programming languages:** JavaScript, TypeScript, HTML, CSS, Sass, Python (Basics), SQL <br />
-**Libraries:** Next.js, React Native, Redux, Redux Toolkit, Webpack <br />
-**CSS Library:** Tailwind CSS, Bootstrap  <br />
-**DB:** MySQL, Mongo DB, Prisma (ORM) <br />
-**Tools & Platforms:** Git, GitHub, Vercel, Figma, Google Cloud Platform (OAuth 2.0) <br />
+**Programming languages:** HTML5, CSS3, JavaScript, TypeScript, Sass, Python (Basics), SQL <br />
+**Libraries:** React, Next.js, React Native, Redux, Redux Thunk, Redux Toolkit, Webpack <br />
+**CSS Library:** Tailwind CSS, Radix UI, shadcn/ui, Bootstrap  <br />
+**Backend:** Node.js, Express.js <br />
+**DB:** Mongo DB, Prisma (ORM) <br />
+**Tools & Platforms:** Git, GitHub, Axios, Vercel, Figma, Google Cloud Platform (OAuth 2.0) <br />
 
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** - Carl Gauss  
