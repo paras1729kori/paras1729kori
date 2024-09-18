@@ -3,7 +3,7 @@ Skilled in building innovative, fun web applications with industry-ready standar
 
 <!-- ### Skills 🥇: -->
 **Software Engineer | Aspiring Computer Scientist**<br />
-**Languages:** Python, JavaScript (ES6+), TypeScript, SQL
+**Languages:** Python, JavaScript (ES6+), TypeScript, SQL <br />
 **Technologies & Tools:** HTML5. CSS3, ReactJS, Redux, Tailwind CSS, Bootstrap, Webpack, Node.js, Express.js, MySQL, MongoDB, WebSockets, Git, GitHub Actions, GitHub Workflows, AWS, Docker, Postman <br />
 **DB:** Mongo DB, Prisma (ORM) <br />
 
