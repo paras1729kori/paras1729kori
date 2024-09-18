@@ -2,14 +2,10 @@
 Skilled in building innovative, fun web applications with industry-ready standards.
 
 <!-- ### Skills 🥇: -->
-**Full Stack Web Developer | Aspiring Computer Scientist**<br />
-**Programming languages:** HTML5, CSS3, JavaScript, TypeScript, Sass, Python (Basics), SQL <br />
-**Libraries:** React, Next.js, React Native, Redux, Redux Thunk, Redux Toolkit, Webpack <br />
-**CSS Library:** Tailwind CSS, Radix UI, shadcn/ui, Bootstrap  <br />
-**Backend:** Node.js, Express.js <br />
+**Software Engineer | Aspiring Computer Scientist**<br />
+**Languages:** Python, JavaScript (ES6+), TypeScript, SQL
+**Technologies & Tools:** HTML5. CSS3, ReactJS, Redux, Tailwind CSS, Bootstrap, Webpack, Node.js, Express.js, MySQL, MongoDB, WebSockets, Git, GitHub Actions, GitHub Workflows, AWS, Docker, Postman <br />
 **DB:** Mongo DB, Prisma (ORM) <br />
-**Tools & Platforms:** Git, GitHub, Axios, Vercel, Figma, Google Cloud Platform (OAuth 2.0) <br />
-
 
 **Favorite quote:** *Pauca sed matura* **(Few but ripe)** - Carl Gauss  
 **Favorite movie line:** *I think a man does whatever he can until his destiny is revealed to him* - Tom Cruise in The Last Samurai
@@ -17,7 +13,7 @@ Skilled in building innovative, fun web applications with industry-ready standar
 - 🌱 You'll always find me sharpening my skills. 
 - ⚡ Fun fact: I can play an ukulele.
 - 💡 Obsessed with coding.
-- 👨🏻‍💻 Currently learning microfrontends with react using webpack module federation.
+- 👨🏻‍💻 Currently learning how to create PWAs.
 
 
 <!-- [<img src='https://img.icons8.com/plasticine/2x/gmail.png' alt='gmail' height='40'>](mailto:paras1799kori@gmail.com) -->
